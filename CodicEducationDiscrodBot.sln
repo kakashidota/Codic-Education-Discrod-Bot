@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codic Education Discrod Bot", "Codic Education Discrod Bot\Codic Education Discrod Bot.csproj", "{A6D68C0B-17CE-461A-97BD-AE50C988DC6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodicEducationDiscrodBot", "Codic Education Discrod Bot\CodicEducationDiscrodBot.csproj", "{A6D68C0B-17CE-461A-97BD-AE50C988DC6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
